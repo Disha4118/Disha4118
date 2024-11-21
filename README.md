@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Disha4118
-- 👀 I’m interested in coding, making websites and apps, games etc.
-- 🌱 I’m currently learning DSA.
-- 🌱 I have done C++ course.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning web development.
+- 🌱 I have done DSA course.
 - 💞️ I’m looking to collaborate on google, microsoft and amazon.
 - 📫 you can contact me by email.
   
