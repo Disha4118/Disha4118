@@ -1,6 +1,10 @@
 # Hi there, I'm Disha 👋  
 
-💻 Passionate **Full Stack Developer** | 🌱 Currently learning **MERN Stack** | 🚀 Building cool projects  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;🌱+Learning+MERN+Stack;🚀+Building+Cool+Projects" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -44,4 +48,11 @@
   <a href="https://www.linkedin.com/in/disha-tiwari-60890a252/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" /></a>
   <a href="mailto:disha.tiwari181141@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" /></a>
   <a href="https://leetcode.com/u/dishatiwari14/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" /></a>
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=disha4118&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
