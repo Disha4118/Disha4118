@@ -37,7 +37,7 @@
 
 <p>
   <a href="https://leetcode.com/u/dishatiwari4118/">
-    <img src="https://leetcard.jacoblin.cool/dishatiwari14?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" height="270"/>
+    <img src="https://leetcard.jacoblin.cool/dishatiwari4118?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" height="270"/>
   </a>
 </p>
 
